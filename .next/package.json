@@ -1,6 +1,6 @@
 {"type": "commonjs"}
 "scripts": {
-  "dev": "next dev",
+  "dev": "next",
   "build": "next build",
   "start": "next start"
 }
